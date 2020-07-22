@@ -1,2 +1,2 @@
-000-BuildExtension_P.pak$Build Extension$Doubles build height
+000-BuildExtension_P.pak$Build Extension$Quadruples build height
 000-ItemCounter_P.pak$Item Counter$Count resource items that fall through
