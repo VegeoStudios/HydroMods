@@ -1,3 +1,4 @@
 000-BuildExtension_P.pak$Build Extension$Quadruples build height
 000-ItemCounter_P.pak$Item Counter$Count resource items that fall through
 000-WrenchFactory_P.pak$WrenchFactory$Adds wrench factory that stores iron, spanners, and tool bags for later use
+000-HideCursor_P.pak$HideCursor$Hides cursor
